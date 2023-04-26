@@ -6,7 +6,6 @@ type task struct {
 	id   string
 	name string
 	desc string
-	sta  string
 }
 
 type Demo struct {
